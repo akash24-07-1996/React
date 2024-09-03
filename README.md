@@ -1,2 +1,0 @@
-# React
-Restaurants project
